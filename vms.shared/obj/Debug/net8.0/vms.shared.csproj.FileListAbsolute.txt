@@ -1,0 +1,11 @@
+C:\Users\SulaimonFasasi\source\repos\vms\vms.shared\bin\Debug\net8.0\vms.shared.deps.json
+C:\Users\SulaimonFasasi\source\repos\vms\vms.shared\bin\Debug\net8.0\vms.shared.dll
+C:\Users\SulaimonFasasi\source\repos\vms\vms.shared\bin\Debug\net8.0\vms.shared.pdb
+C:\Users\SulaimonFasasi\source\repos\vms\vms.shared\obj\Debug\net8.0\vms.shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SulaimonFasasi\source\repos\vms\vms.shared\obj\Debug\net8.0\vms.shared.AssemblyInfoInputs.cache
+C:\Users\SulaimonFasasi\source\repos\vms\vms.shared\obj\Debug\net8.0\vms.shared.AssemblyInfo.cs
+C:\Users\SulaimonFasasi\source\repos\vms\vms.shared\obj\Debug\net8.0\vms.shared.csproj.CoreCompileInputs.cache
+C:\Users\SulaimonFasasi\source\repos\vms\vms.shared\obj\Debug\net8.0\vms.shared.dll
+C:\Users\SulaimonFasasi\source\repos\vms\vms.shared\obj\Debug\net8.0\refint\vms.shared.dll
+C:\Users\SulaimonFasasi\source\repos\vms\vms.shared\obj\Debug\net8.0\vms.shared.pdb
+C:\Users\SulaimonFasasi\source\repos\vms\vms.shared\obj\Debug\net8.0\ref\vms.shared.dll

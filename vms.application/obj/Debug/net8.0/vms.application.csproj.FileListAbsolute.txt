@@ -1,0 +1,17 @@
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\bin\Debug\net8.0\vms.application.deps.json
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\bin\Debug\net8.0\vms.application.dll
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\bin\Debug\net8.0\vms.application.pdb
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\obj\Debug\net8.0\vms.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\obj\Debug\net8.0\vms.application.AssemblyInfoInputs.cache
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\obj\Debug\net8.0\vms.application.AssemblyInfo.cs
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\obj\Debug\net8.0\vms.application.csproj.CoreCompileInputs.cache
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\obj\Debug\net8.0\vms.application.dll
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\obj\Debug\net8.0\refint\vms.application.dll
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\obj\Debug\net8.0\vms.application.pdb
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\obj\Debug\net8.0\ref\vms.application.dll
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\bin\Debug\net8.0\vms.domain.dll
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\bin\Debug\net8.0\vms.shared.dll
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\bin\Debug\net8.0\vms.domain.pdb
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\bin\Debug\net8.0\vms.shared.pdb
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\obj\Debug\net8.0\vms.application.csproj.AssemblyReference.cache
+C:\Users\SulaimonFasasi\source\repos\vms\vms.application\obj\Debug\net8.0\vms.appl.A98783FD.Up2Date
