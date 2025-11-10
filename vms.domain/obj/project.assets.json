@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\": {},
+    "C:\\Users\\joshc\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SulaimonFasasi\\source\\repos\\vms\\vms.domain\\vms.domain.csproj",
+      "projectUniqueName": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.domain\\vms.domain.csproj",
       "projectName": "vms.domain",
-      "projectPath": "C:\\Users\\SulaimonFasasi\\source\\repos\\vms\\vms.domain\\vms.domain.csproj",
-      "packagesPath": "C:\\Users\\SulaimonFasasi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SulaimonFasasi\\source\\repos\\vms\\vms.domain\\obj\\",
+      "projectPath": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.domain\\vms.domain.csproj",
+      "packagesPath": "C:\\Users\\joshc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\SulaimonFasasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joshc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\SulaimonFasasi\\source\\repos\\vms\\vms.shared\\vms.shared.csproj": {
-              "projectPath": "C:\\Users\\SulaimonFasasi\\source\\repos\\vms\\vms.shared\\vms.shared.csproj"
+            "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.shared\\vms.shared.csproj": {
+              "projectPath": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.shared\\vms.shared.csproj"
             }
           }
         }
@@ -95,7 +95,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,5 +10,7 @@ namespace vms.application.Interfaces.Services
     public interface IAccountService
     {
         Task<LoginResponseDto> Login(string username, string password);
+        Task LogoutAsync(string token);
+
     }
 }

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using vms.application.Interfaces.Repositories;
+using vms.application.Services;
 using vms.infrastructure.Repositories;
 
 namespace vms.infrastructure.DependencyInjection
@@ -21,7 +22,7 @@ namespace vms.infrastructure.DependencyInjection
 
 
             services.AddScoped<IAccountRepository, AccountRepository>();
-
+            services.AddScoped<IRoleRepository, RoleRepository>();
 
             return services;
         }

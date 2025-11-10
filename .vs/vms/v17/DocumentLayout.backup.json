@@ -1,51 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SulaimonFasasi\\source\\repos\\vms\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4F1CA9-D5B2-4F01-82C1-F0E5F6EBECBA}|vms.domain\\vms.domain.csproj|c:\\users\\joshc\\onedrive\\desktop\\vms\\vms\\vms.domain\\entities\\revokedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4F1CA9-D5B2-4F01-82C1-F0E5F6EBECBA}|vms.domain\\vms.domain.csproj|solutionrelative:vms.domain\\entities\\revokedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64972C9-921E-43D3-8273-4FAC8292610C}|vms.infrastructure\\vms.infrastructure.csproj|c:\\users\\joshc\\onedrive\\desktop\\vms\\vms\\vms.infrastructure\\vmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64972C9-921E-43D3-8273-4FAC8292610C}|vms.infrastructure\\vms.infrastructure.csproj|solutionrelative:vms.infrastructure\\vmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C19047F-DC15-46C1-B44C-FB1EC35B33AD}|vms.presentation\\vms.presentation.csproj|c:\\users\\joshc\\onedrive\\desktop\\vms\\vms\\vms.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C19047F-DC15-46C1-B44C-FB1EC35B33AD}|vms.presentation\\vms.presentation.csproj|solutionrelative:vms.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64972C9-921E-43D3-8273-4FAC8292610C}|vms.infrastructure\\vms.infrastructure.csproj|c:\\users\\joshc\\onedrive\\desktop\\vms\\vms\\vms.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64972C9-921E-43D3-8273-4FAC8292610C}|vms.infrastructure\\vms.infrastructure.csproj|solutionrelative:vms.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F59B41-6A92-430C-BD49-D48716123EA3}|vms.application\\vms.application.csproj|c:\\users\\joshc\\onedrive\\desktop\\vms\\vms\\vms.application\\interfaces\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F59B41-6A92-430C-BD49-D48716123EA3}|vms.application\\vms.application.csproj|solutionrelative:vms.application\\interfaces\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F59B41-6A92-430C-BD49-D48716123EA3}|vms.application\\vms.application.csproj|c:\\users\\joshc\\onedrive\\desktop\\vms\\vms\\vms.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F59B41-6A92-430C-BD49-D48716123EA3}|vms.application\\vms.application.csproj|solutionrelative:vms.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F59B41-6A92-430C-BD49-D48716123EA3}|vms.application\\vms.application.csproj|c:\\users\\joshc\\onedrive\\desktop\\vms\\vms\\vms.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F59B41-6A92-430C-BD49-D48716123EA3}|vms.application\\vms.application.csproj|solutionrelative:vms.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F59B41-6A92-430C-BD49-D48716123EA3}|vms.application\\vms.application.csproj|c:\\users\\joshc\\onedrive\\desktop\\vms\\vms\\vms.application\\interfaces\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F59B41-6A92-430C-BD49-D48716123EA3}|vms.application\\vms.application.csproj|solutionrelative:vms.application\\interfaces\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C19047F-DC15-46C1-B44C-FB1EC35B33AD}|vms.presentation\\vms.presentation.csproj|c:\\users\\joshc\\onedrive\\desktop\\vms\\vms\\vms.presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C19047F-DC15-46C1-B44C-FB1EC35B33AD}|vms.presentation\\vms.presentation.csproj|solutionrelative:vms.presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 205,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.application\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "vms.application\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.application\\Services\\JwtService.cs",
+              "RelativeToolTip": "vms.application\\Services\\JwtService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:41:38.082Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.application\\Interfaces\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "vms.application\\Interfaces\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.application\\Interfaces\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "vms.application\\Interfaces\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:34:31.398Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.presentation\\Program.cs",
+              "RelativeDocumentMoniker": "vms.presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.presentation\\Program.cs",
+              "RelativeToolTip": "vms.presentation\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T20:00:27.091Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "vms.infrastructure\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "vms.infrastructure\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:34:54.074Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.application\\Interfaces\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "vms.application\\Interfaces\\Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.application\\Interfaces\\Services\\IAccountService.cs",
+              "RelativeToolTip": "vms.application\\Interfaces\\Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:34:40.418Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.application\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "vms.application\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.application\\Services\\AccountService.cs",
+              "RelativeToolTip": "vms.application\\Services\\AccountService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:31:58.969Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VMSDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.infrastructure\\VMSDbContext.cs",
+              "RelativeDocumentMoniker": "vms.infrastructure\\VMSDbContext.cs",
+              "ToolTip": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.infrastructure\\VMSDbContext.cs",
+              "RelativeToolTip": "vms.infrastructure\\VMSDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:26:24.159Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RevokedToken.cs",
+              "DocumentMoniker": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.domain\\Entities\\RevokedToken.cs",
+              "RelativeDocumentMoniker": "vms.domain\\Entities\\RevokedToken.cs",
+              "ToolTip": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.domain\\Entities\\RevokedToken.cs",
+              "RelativeToolTip": "vms.domain\\Entities\\RevokedToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:24:32.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.presentation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "vms.presentation\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\joshc\\OneDrive\\Desktop\\VMS\\vms\\vms.presentation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "vms.presentation\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:49:03.057Z",
+              "EditorCaption": ""
             }
           ]
         }
